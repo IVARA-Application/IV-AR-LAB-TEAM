@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 680, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
-  controlID: 136
+  controlID: 157
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,22 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models/Class 10/NewPhysics/6. Refraction Through Prism Experiment/Akshay
-      S/Textures/Experiment_6-Refraction through glass prism/laser pointer/metal
+    - Assets/Scenes/Class 10
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models/Class 10/NewPhysics/6. Refraction Through Prism Experiment/Akshay
-    S/Textures/Experiment_6-Refraction through glass prism/laser pointer/metal
+  - Assets/Scenes/Class 10
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\AR Labs\AR---LAB\New_IVentors - Physics
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 158}
-    m_SelectedIDs: f6470000
-    m_LastClickedID: 18422
-    m_ExpandedIDs: 0000000026470000284700002a4700002c4700002e47000030470000324700003447000036470000384700003a4700003c4700003e47000040470000424700004447000046470000484700004a4700004c4700004e47000050470000524700005447000056470000584700005a4700005c4700005e47000076470000a8470000cc470000da470000e4470000e8470000ee47000000ca9a3b
+    scrollPos: {x: 0, y: 894}
+    m_SelectedIDs: 94470000
+    m_LastClickedID: 18324
+    m_ExpandedIDs: 0000000026470000284700002a4700002c4700002e47000030470000324700003447000036470000384700003a4700003c4700003e47000040470000424700004447000046470000484700004a4700004c4700004e47000050470000524700005447000056470000584700005a4700005c4700005e4700007647000092470000a6470000a8470000aa470000ac470000ae470000b047000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -504,9 +502,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: fc470000
+      m_SelectedIDs: f4470000
       m_LastClickedID: 0
-      m_ExpandedIDs: 68fbffff
+      m_ExpandedIDs: 9a27feffa4e4ffff5cecffffaaedffff80efffff98efffff62f1ffff06f3ffff5af4ffff68fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -566,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.4206104, y: -1.0394489, z: 0.54969925}
+    m_Target: {x: -0.7366406, y: -1.2195696, z: 1.5599303}
     speed: 2
-    m_Value: {x: -1.4206104, y: -1.0394489, z: 0.54969925}
+    m_Value: {x: -0.7366406, y: -1.2195696, z: 1.5599303}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -614,13 +612,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.21388671, y: -0.67885935, z: 0.21738161, w: 0.66794693}
+    m_Target: {x: 0.31445083, y: -0.29105496, z: 0.10194276, w: 0.89778715}
     speed: 2
-    m_Value: {x: -0.21388672, y: 0.67885935, z: -0.21738161, w: -0.667947}
+    m_Value: {x: 0.31429654, y: -0.29240036, z: 0.102414, w: 0.89734674}
   m_Size:
-    m_Target: 1.139277
+    m_Target: 1.4392769
     speed: 2
-    m_Value: 1.139277
+    m_Value: 0.595022
   m_Ortho:
     m_Target: 0
     speed: 2

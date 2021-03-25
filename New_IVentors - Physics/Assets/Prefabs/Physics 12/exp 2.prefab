@@ -5212,17 +5212,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5467926856199191832}
-  m_LocalRotation: {x: -0, y: -1, z: -0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 0.209}
+  m_LocalRotation: {x: 0.00000019861236, y: -0.7071068, z: 0.7071068, w: 0.00000019861236}
+  m_LocalPosition: {x: 0, y: 0, z: 0.308}
   m_LocalScale: {x: 0.0045406036, y: 0.0045406036, z: 0.0045406036}
   m_Children:
   - {fileID: 5467926854719580790}
   m_Father: {fileID: 6112454531507385083}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 90, y: -179.99998, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.326, y: 0.2}
+  m_AnchoredPosition: {x: -0.326, y: -0.004}
   m_SizeDelta: {x: 159.20404, y: 22.870758}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &5467926856199191812
@@ -6528,11 +6528,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jockey: {fileID: 5467926854706251447}
-  voltmeterValue: {fileID: 5467926856508419764}
-  destination: {fileID: 5467926855064507280}
-  startPoint: {fileID: 5467926855796528662}
-  slider: {fileID: 5467926854719580785}
+  galvanometerReading: {fileID: 0}
+  meterBridgeReading: {fileID: 0}
   multiplier: 40
+  resistorValueHolder: {fileID: 0}
 --- !u!114 &2076409806120697556
 MonoBehaviour:
   m_ObjectHideFlags: 0
