@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Class 12/Part A/Exp 9_Galvanometer to Ammeter.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
