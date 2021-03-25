@@ -2119,11 +2119,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   jockey: {fileID: 5792538575197263824}
-  voltmeterValue: {fileID: 5792538574400744136}
-  destination: {fileID: 5792538574821599983}
-  startPoint: {fileID: 5792538574643321527}
-  slider: {fileID: 5792538575325480764}
+  galvanometerReading: {fileID: 0}
+  meterBridgeReading: {fileID: 0}
   multiplier: 40
+  resistorValueHolder: {fileID: 0}
 --- !u!114 &-8239707248799778887
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8591,17 +8590,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5792538574714823389}
-  m_LocalRotation: {x: -0, y: -1, z: -0, w: 0}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: 0.00000019861236, y: -0.7071068, z: 0.7071068, w: 0.00000019861236}
+  m_LocalPosition: {x: 0, y: 0, z: 0.08}
   m_LocalScale: {x: 0.004045838, y: 0.004045838, z: 0.004045838}
   m_Children:
   - {fileID: 5792538575325480765}
   m_Father: {fileID: 235331103392991320}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 90, y: -179.99998, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -0.312, y: 0.154}
+  m_AnchoredPosition: {x: -0.312, y: -0.019}
   m_SizeDelta: {x: 159.20404, y: 22.870758}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &5792538574714823393
