@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Class 10/Ohms Law.unity
+- path: Assets/Scenes/Class 10/Phy10_Experiment7Lab.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
